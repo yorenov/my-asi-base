@@ -1,0 +1,1 @@
+tar -pczf plugin.tar.gz src make.bat premake.bat CMakeSettings.json CMakeLists.txt maketar.sh
